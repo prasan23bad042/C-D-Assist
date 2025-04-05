@@ -1,7 +1,7 @@
 
 # 🚀 C&D Assist - AI-Powered Bug Detection & Fixing
 
-C&D Assist is a lightweight AI tool that performs **automated bug detection and fixing** optimized for systems with limited hardware resources. Designed with a focus on **real-time assistance**, it integrates a **custom-built web-based IDE** to provide a seamless debugging experience for developers.
+C&D Assist (Code and Debug AI Assistent) is a AI tool that performs **automated bug detection and fixing**. Designed with a focus on **real-time assistance**, it integrates a **custom-built web-based IDE** to provide a seamless debugging experience for developers.
 
 ---
 
@@ -134,18 +134,15 @@ C_D_Assit/
    ```bash
    pip install -r backend/requirements.txt
    ```
-
+3. Load Model
+   ```bash
+   python src/bug_fixer.py
+   ```
 3. Launch backend API  
    ```bash
-   python backend/app.py
+   python src/api_server.py
    ```
 
 4. Serve frontend using WAMP/XAMPP or any PHP server.
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change or improve.
 
 ---
