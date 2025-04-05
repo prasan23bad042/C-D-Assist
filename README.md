@@ -1,7 +1,7 @@
 
-# 🚀 C&D Assit - AI-Powered Bug Detection & Fixing
+# 🚀 C&D Assist - AI-Powered Bug Detection & Fixing
 
-C&D Assit is a lightweight AI tool that performs **automated bug detection and fixing** optimized for systems with limited hardware resources. Designed with a focus on **real-time assistance**, it integrates a **custom-built web-based IDE** to provide a seamless debugging experience for developers.
+C&D Assist is a lightweight AI tool that performs **automated bug detection and fixing** optimized for systems with limited hardware resources. Designed with a focus on **real-time assistance**, it integrates a **custom-built web-based IDE** to provide a seamless debugging experience for developers.
 
 ---
 
