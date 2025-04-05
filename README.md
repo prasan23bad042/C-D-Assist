@@ -143,6 +143,9 @@ C_D_Assit/
    python src/api_server.py
    ```
 
-4. Serve frontend using WAMP/XAMPP or any PHP server.
+4. Run Frontend
+   ```bash
+   Frontend/ui/index.html
+   ```
 
 ---
