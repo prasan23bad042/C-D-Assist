@@ -1,14 +1,14 @@
 
-# 🚀 C_D_Assit - AI-Powered Bug Detection & Fixing for Python
+# 🚀 C&D Assit - AI-Powered Bug Detection & Fixing
 
-C_D_Assit is a lightweight AI tool that performs **automated bug detection and fixing** in **Python code**, optimized for systems with limited hardware resources. Designed with a focus on **real-time assistance**, it integrates a **custom-built web-based IDE** to provide a seamless debugging experience for developers.
+C&D Assit is a lightweight AI tool that performs **automated bug detection and fixing** optimized for systems with limited hardware resources. Designed with a focus on **real-time assistance**, it integrates a **custom-built web-based IDE** to provide a seamless debugging experience for developers.
 
 ---
 
 ## ✅ Current Implementation
 
 ### 🔧 What It Does
-- Takes **raw Python code** as input through a browser-based IDE interface.
+- Takes **raw code** as input through a browser-based IDE interface.
 - Automatically detects bugs and suggests **corrected code**.
 - Allows users to view **error outputs**, compare **fixed code**, and make corrections directly inside the IDE.
 - Supports **uploading Python files**, **language selection**, and **custom prompts** to control bug-fixing behavior.
@@ -29,7 +29,7 @@ C_D_Assit is a lightweight AI tool that performs **automated bug detection and f
 - **Reason for selection**:  
   - Balanced **performance** and **resource efficiency**.  
   - Produced the **most accurate and usable outputs** within hardware limits.  
-- **System Specs**:
+- **Minimum System Specs**:
   - Intel i5 11th Gen  
   - RTX 2050 (4GB VRAM)  
   - 16GB RAM  
