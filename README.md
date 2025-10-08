@@ -126,7 +126,7 @@ C_D_Assit/
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/Yuvanraj-K-S/C_D_Assit.git
+   git clone https://github.com/prasan23bad042/C_D_Assit.git
    cd C_D_Assit
    ```
 
